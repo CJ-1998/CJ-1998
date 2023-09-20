@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choijun0627&show_icons=true&theme=default)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CJ-1998&show_icons=true&theme=default)
 
 <!---
 CJ-1998/CJ-1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
