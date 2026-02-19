@@ -10,10 +10,6 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CJ-1998&show_icons=true&theme=default)
-
-<br>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choijun0627)](https://solved.ac/choijun0627/)
 
 <!---
